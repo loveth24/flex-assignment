@@ -1,0 +1,37 @@
+img{
+  width: 10%;
+  border-radius: 100px;
+  padding: 50px;
+  
+}
+.main-div{
+  display: flex;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  align-self: center;
+
+}
+
+.yellow-div{
+  background: yellow;
+}
+.img2{
+  background:red;
+}
+h1{
+  padding: 50px;
+  text-transform: uppercase;
+}.letter{
+  padding: 50px;
+}
+button{
+align-self:center;
+border-radius: 10px;
+margin:50px ;
+}
+
+
